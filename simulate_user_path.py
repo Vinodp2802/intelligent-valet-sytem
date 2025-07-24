@@ -1,0 +1,1 @@
+# Simulate user walking behavior
